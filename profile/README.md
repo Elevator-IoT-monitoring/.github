@@ -76,11 +76,11 @@ git clone https://github.com/Elevator-IoT-monitoring/[REPO NAME]
    ```
 
 2. Gateway Node
-  ```
+    ```
     cd gateway-node
     # Flash via Arduino IDE
     # Configure WiFi + Firebase credentials
-  ```
+    ```
 3. Cloud Functions
     ```
     cd cloud-functions
