@@ -70,9 +70,9 @@ git clone https://github.com/Elevator-IoT-monitoring/[REPO NAME]
 ```
 1. Sensing node
    ```
-      cd sensing-node
-      # Flash via Arduino IDE (see repo README)
-      # Sensors: BMP581/IMU via I²C
+   cd sensing-node
+   # Flash via Arduino IDE (see repo README)
+   # Sensors: BMP581/IMU via I²C
    ```
 
 2. Gateway Node
