@@ -5,7 +5,7 @@ Problem solved: Resource-constrained embedded ML + reliable edge-cloud pipeline 
 
 <img width="1640" height="1258" alt="image" src="https://github.com/user-attachments/assets/f61b83fe-04cf-4651-89d4-0274d8aeca2b" />
 
-#Architecture
+# Architecture
 
 ```
 Sensing Node (ESP32) ──BLE──> Gateway Node (ESP32) ──WiFi──> Firebase RTDB
