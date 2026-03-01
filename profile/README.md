@@ -1,6 +1,7 @@
 # Overview
 
 Distributed IoT system for elevator condition monitoring using two ESP32 IoT boards as nodes. Detects anomalies at the edge, classifies severity in the cloud, and visualizes in real-time web dashboard. KTH IK1332 project
+
 Problem solved: Resource-constrained embedded ML + reliable edge-cloud pipeline for safety-critical elevator data.
 
 <img width="1640" height="1258" alt="image" src="https://github.com/user-attachments/assets/f61b83fe-04cf-4651-89d4-0274d8aeca2b" />
